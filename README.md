@@ -1,4 +1,4 @@
-- 👋 Hi,
+👋 Hi,
 
 Blockchain developer with high skills.
 
